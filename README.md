@@ -1,1 +1,1 @@
-# calculator
+# This a calculator program in C
